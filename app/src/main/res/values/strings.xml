@@ -1,0 +1,11 @@
+<!--
+  ~ Created by Ayaan on 02/02/23, 10:30 pm
+  ~ Copyright (c) 2023 . All rights reserved.
+  ~ Last modified 02/02/23, 9:56 pm
+  -->
+
+<resources>
+    <string name="app_name">TTS Library</string>
+    <string name="des">This is Text to speech library by Aayaan</string>
+    <string name="speak">Speak</string>
+</resources>
