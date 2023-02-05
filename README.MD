@@ -21,7 +21,7 @@ allprojects {
     
 ```groovy
 dependencies {
-		implementation 'com.github.User:Repo:Tag'
+	        implementation 'com.github.aiyu-ayaan:tts-engine:Tag'
 	}
 ```
 
