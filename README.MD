@@ -3,10 +3,11 @@
 A simple and efficient library that provides Text-to-Speech functionality for Android applications.
 
 
-<center>
-<video src="https://firebasestorage.googleapis.com/v0/b/aiyu-ayaan.appspot.com/o/demo.mp4?alt=media&token=3919f7d8-7a8e-406d-a5ea-5a3a00d914db" height="400" controls>
-</video>
-</center>
+<a href="https://firebasestorage.googleapis.com/v0/b/aiyu-ayaan.appspot.com/o/demo.mp4?alt=media&token=3919f7d8-7a8e-406d-a5ea-5a3a00d914db">
+	<image src="https://firebasestorage.googleapis.com/v0/b/aiyu-ayaan.appspot.com/o/TTS-Engine.png?alt=media&token=2fb4886c-c9ed-4d73-8288-e9d13619f1d0"
+       height="400" width="400"></image>
+</a>
+
 
 ## Features
 
