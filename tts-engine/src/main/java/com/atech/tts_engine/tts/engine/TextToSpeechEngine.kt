@@ -57,7 +57,7 @@ class TextToSpeechEngine private constructor() {
                             onHighlightListener?.invoke(start, end)
                     },
                     onDone = {
-                        onStartListener?.invoke()
+                        onDoneListener?.invoke()
                     }
                 )
                 speak(message)
